@@ -1,0 +1,41 @@
+<!--http://informer.gismeteo.ru/xml/27612_1.xml-->
+
+
+<MMWEATHER>
+	<REPORT type="frc3">
+		<TOWN id='town' index="27612" sname="Moscow" latitude="55" longitude="37">
+			<FORECAST day="16" month="05" year="2016" hour="03" tod="0" predict="0" weekday="2">
+				<PHENOMENA cloudiness="3" precipitation="4" rpower="0" spower="0" />
+				<PRESSURE max="744" min="742" />
+				<TEMPERATURE max="9" min="7" />
+				<WIND min="3" max="5" direction="1" />
+				<RELWET max="87" min="85" />
+				<HEAT min="6" max="8" />
+			</FORECAST>
+			<FORECAST day="16" month="05" year="2016" hour="09" tod="1" predict="0" weekday="2">
+				<PHENOMENA cloudiness="3" precipitation="4" rpower="0" spower="0" />
+				<PRESSURE max="744" min="742" />
+				<TEMPERATURE max="9" min="7" />
+				<WIND min="3" max="5" direction="1" />
+				<RELWET max="88" min="86" />
+				<HEAT min="6" max="8" />
+			</FORECAST>
+			<FORECAST day="16" month="05" year="2016" hour="15" tod="2" predict="0" weekday="2">
+				<PHENOMENA cloudiness="3" precipitation="10" rpower="0" spower="0" />
+				<PRESSURE max="746" min="744" />
+				<TEMPERATURE max="11" min="9" />
+				<WIND min="2" max="4" direction="1" />
+				<RELWET max="88" min="86" />
+				<HEAT min="8" max="10" />
+			</FORECAST>
+			<FORECAST day="16" month="05" year="2016" hour="21" tod="3" predict="0" weekday="2">
+				<PHENOMENA cloudiness="3" precipitation="10" rpower="0" spower="0" />
+				<PRESSURE max="747" min="745" />
+				<TEMPERATURE max="10" min="8" />
+				<WIND min="-1" max="1" direction="3" />
+				<RELWET max="95" min="93" />
+				<HEAT min="8" max="10" />
+			</FORECAST>
+		</TOWN>
+	</REPORT>
+</MMWEATHER>
